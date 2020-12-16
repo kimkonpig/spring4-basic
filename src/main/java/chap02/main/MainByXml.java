@@ -1,5 +1,9 @@
-package chap02;
+package chap02.main;
 
+import chap02.AuthException;
+import chap02.AuthenticationService;
+import chap02.PasswordChangeService;
+import chap02.UserNotFoundException;
 import org.springframework.context.support.GenericXmlApplicationContext;
 
 public class MainByXml {
