@@ -1,3 +1,7 @@
+package chap01;
+
+import chap01.BuildRunner;
+
 import java.util.List;
 
 public class Project {
